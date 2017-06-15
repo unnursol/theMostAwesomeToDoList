@@ -1,2 +1,2 @@
 # ToDo list web application
-## Sigrún Tinna & Unnur Sól
+#### Sigrún Tinna & Unnur Sól
