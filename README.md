@@ -1,6 +1,6 @@
 # The most awesome Todo list
 #### Sigrún Tinna & Unnur Sól
 ### Frontend
-#### Reaxt - Redux
+#### React - Redux
 ### Backend
 #### Django - Postgresql
